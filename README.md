@@ -7,7 +7,7 @@ DuckTapeVideos is an AI music video generation pipeline. It will take songs via 
 
 Pipeline taking a beat, determine BPMs, create a template for prompts based on those BPMs, and then create a video of those prompts via Deforum/StableDiffusion
 
-![Alt Text](./media/diagrams/pipeline.drawio)
+![Alt Text](./media/diagrams/pipeline.png)
 
 
 ## Tech Stack (Needs)
